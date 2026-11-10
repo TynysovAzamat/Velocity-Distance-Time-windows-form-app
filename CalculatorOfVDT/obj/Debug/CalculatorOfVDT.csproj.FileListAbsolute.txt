@@ -1,0 +1,14 @@
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\bin\Debug\CalculatorOfVDT.exe.config
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\bin\Debug\CalculatorOfVDT.exe
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\bin\Debug\CalculatorOfVDT.pdb
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.csproj.AssemblyReference.cache
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.MainFormCalculator.resources
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.VelocityCalculator.resources
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.Properties.Resources.resources
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.csproj.GenerateResource.cache
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.csproj.CoreCompileInputs.cache
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.exe
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.pdb
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.exe.config
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.Forms.DistanceCalculator.resources
+C:\Users\Tynysov Azamat\source\repos\CalculatorOfVDT\CalculatorOfVDT\obj\Debug\CalculatorOfVDT.TimeCalculator.resources

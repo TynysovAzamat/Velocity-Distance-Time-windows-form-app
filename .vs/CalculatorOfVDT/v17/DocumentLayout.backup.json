@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\velocitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\velocitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\timecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\timecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\timecalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\timecalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\timecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\timecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\velocitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\velocitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\velocitycalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\velocitycalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\mainformcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\mainformcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\mainformcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\mainformcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\scripts\\appexitfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\scripts\\appexitfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\distancecalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\distancecalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|c:\\users\\tynysov azamat\\source\\repos\\calculatorofvdt\\calculatorofvdt\\forms\\mainformcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672D502-AC88-4493-9CE7-333BDE10FADA}|CalculatorOfVDT\\CalculatorOfVDT.csproj|solutionrelative:calculatorofvdt\\forms\\mainformcalculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\TimeCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\TimeCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\TimeCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\TimeCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:19:20.738Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VelocityCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\VelocityCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\VelocityCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\VelocityCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\VelocityCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T13:20:25.846Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeCalculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\TimeCalculator.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\TimeCalculator.Designer.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\TimeCalculator.Designer.cs",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\TimeCalculator.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:41:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VelocityCalculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\VelocityCalculator.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\VelocityCalculator.Designer.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\VelocityCalculator.Designer.cs*",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\VelocityCalculator.Designer.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwIIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T13:58:38.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\TimeCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\TimeCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\TimeCalculator.cs",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\TimeCalculator.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:37:56.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VelocityCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\VelocityCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\VelocityCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\VelocityCalculator.cs*",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\VelocityCalculator.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:00:41.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainFormCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\MainFormCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\MainFormCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\MainFormCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\MainFormCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T11:17:47.313Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainFormCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\MainFormCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\MainFormCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\MainFormCalculator.cs",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\MainFormCalculator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T13:16:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DistanceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\DistanceCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\DistanceCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\DistanceCalculator.cs",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\DistanceCalculator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:21:12.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DistanceCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\DistanceCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\DistanceCalculator.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\DistanceCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\DistanceCalculator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:20:55.672Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppExitFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Scripts\\AppExitFeature.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Scripts\\AppExitFeature.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Scripts\\AppExitFeature.cs",
+              "RelativeToolTip": "CalculatorOfVDT\\Scripts\\AppExitFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:29:19.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DistanceCalculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\DistanceCalculator.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\DistanceCalculator.Designer.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\DistanceCalculator.Designer.cs",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\DistanceCalculator.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAIAwwJcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:21:41.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainFormCalculator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\MainFormCalculator.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatorOfVDT\\Forms\\MainFormCalculator.Designer.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\CalculatorOfVDT\\CalculatorOfVDT\\Forms\\MainFormCalculator.Designer.cs",
+              "RelativeToolTip": "CalculatorOfVDT\\Forms\\MainFormCalculator.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEAAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:19:48.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
